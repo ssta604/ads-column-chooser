@@ -11,16 +11,21 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/ssta604/ads-column-chooser.git"
-	  },
-	  "author": "Sean Stalker",
-	  "license": "MIT",
-	  "bugs": {
+	},
+	"author": "Sean Stalker",
+	"license": "MIT",
+	"bugs": {
 		"url": "https://github.com/ssta604/ads-column-chooser/issues"
-	  },
-	  "homepage": "https://github.com/ssta604/ads-column-chooser/",
+	},
+	"homepage": "https://github.com/ssta604/ads-column-chooser/",
 	"categories": [
 		"Other"
 	],
+	"icon": "resources/imgs/logo.png",
+	"galleryBanner": {
+		"color": "#3D4F58",
+		"theme": "dark"
+	},
 	"activationEvents": [
 		"onCommand:column-chooser.show"
 	],
