@@ -29,8 +29,8 @@ To install a `.vsix` (VISX) extension file in Azure Data Studio, you can follow 
    - Alternatively, press `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (Mac) to open the Extensions view directly.
 
 4. **Install VISX:**
-   - Once the Extensions view is open, click on the ellipsis (three dots) to open the Extentions menu.
-   - You will see options like "Check for Extenting Updates", "Auto Update Extentions", "Install from VISX", etc.
+   - Once the Extensions view is open, click on the ellipsis (three dots) to open the Extensions menu.
+   - You will see options like "Check for Extenting Updates", "Auto Update Extensions", "Install from VISX", etc.
    - Choose "Install from VISX..." from the menu.
    - Alternativly the "Install from VISX..." may be found on the File menu.
    - Locate the `.vsix` file on your computer in the file picker dialog that appears, then select and open it.
