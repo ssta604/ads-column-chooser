@@ -1,4 +1,4 @@
-# Azure Data Strudio Column Chooser Extension
+# Azure Data Studio Column Chooser Extension
 The Column Chooser extension for Azure Data Studio allows users to easily select and customize columns in SQL SELECT statements.
 
 ## Features
