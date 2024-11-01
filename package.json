@@ -3,7 +3,7 @@
 	"displayName": "Azure Data Studio Column Chooser",
 	"description": "The Column Chooser extension for Azure Data Studio allows users to easily select and customize columns in SQL SELECT statements.",
 	"publisher": "Sean Stalker",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.39.0",
 		"azdata": "*"
